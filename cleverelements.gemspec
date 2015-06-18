@@ -6,8 +6,8 @@ require 'cleverelements/version'
 Gem::Specification.new do |spec|
   spec.name          = "cleverelements"
   spec.version       = CleverElements::VERSION
-  spec.authors       = ["Zdravko Evstatiev"]
-  spec.email         = ["zevstatiev@gmail.com"]
+  spec.authors       = ["Despark"]
+  spec.email         = ["contact@despark.com"]
 
   spec.summary       = "A ruby gem to help you implement [Clever Elements'](http://www.cleverelements.com/, 'Clever Elements') API in your projects. Detailed API documentations can be found here: [http://support.cleverelements.com/kb/api/](http://support.cleverelements.com/kb/api/, 'View API docs')."
   spec.description   = "The API works with the network protocol SOAP (Simple Object Access Protocol). SOAP libraries can be found in many modern programming languages such as PHP, Python, Java and C++. SOAP therefore provides a good basis for simple cross-language communication. The basis for SOAP is the WSDL file, in which all functions and parameters of the API are described. The WSDL file is provided in XML format and can be read by many editors (e.g. Aptana). [More Info about our API](http://support.cleverelements.com/kb/api/)"
